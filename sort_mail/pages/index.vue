@@ -1,7 +1,6 @@
 <template>
 <div>
 
-  <h1>{{emailSelection.emails.size}} emails selected</h1>
 
  <Suspense>
     <template #default>
